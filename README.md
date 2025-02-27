@@ -81,14 +81,6 @@
 
 ---
 
-## 🎵 Now Playing  
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username" alt="Spotify Now Playing" />
-</p>
-
----
-
 ## 🤝 Connect With Me  
 
 <p align="center">
