@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Infernape! 👋</h1>
+<h1 align="center">Hi there, I'm Asad! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/jacksparrow381">
@@ -11,7 +11,7 @@
 ## 🌟 About Me  
 
 🔭 Currently working on **Expense Management Tracker**  
-🌱 Exploring **TypeScript, Supabase, Next.js 14**  
+🌱 Exploring **Swift, GoLang, Supabase, Next.js 15**  
 ⚡ Passionate about **building scalable and interactive web apps**  
 📫 Connect with me on [GMAIL](mailto:developerasad381@gmail.com)  
 
