@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Asad! 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/jacksparrow381">
+  <a href="https://github.com/jacksparrow1009">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&height=45&lines=MERN+Stack+Developer;Full+Stack+Engineer;Open+Source+Enthusiast;Tech+Explorer" alt="Typing SVG" />
   </a>
 </p>
@@ -61,15 +61,15 @@
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacksparrow381&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jacksparrow1009&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksparrow381&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacksparrow1009&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jacksparrow381&theme=radical&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=jacksparrow1009&theme=radical&row=1&column=7" alt="GitHub Trophies">
 </p>
 
 ---
@@ -77,17 +77,17 @@
 ## 🎯 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/jacksparrow381/Expense-Management-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow381&repo=Expense-Management-Tracker&theme=radical" />
+  <a href="https://github.com/jacksparrow1009/Expense-Management-Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Expense-Management-Tracker&theme=radical" />
   </a>
-  <a href="https://github.com/jacksparrow381/Personality-Test-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow381&repo=Personality-Test-Application&theme=radical" />
+  <a href="https://github.com/jacksparrow1009/Personality-Test-Application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Personality-Test-Application&theme=radical" />
   </a>
-  <a href="https://github.com/jacksparrow381/Authentication-with-Reactjs-expressJs-Jwt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow381&repo=Authentication-with-Reactjs-expressJs-Jwt&theme=radical" />
+  <a href="https://github.com/jacksparrow1009/Authentication-with-Reactjs-expressJs-Jwt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Authentication-with-Reactjs-expressJs-Jwt&theme=radical" />
   </a>
-  <a href="https://github.com/jacksparrow381/Tic-Tac-Toe-Game-with-React-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow381&repo=Tic-Tac-Toe-Game-with-React-js&theme=radical" />
+  <a href="https://github.com/jacksparrow1009/Tic-Tac-Toe-Game-with-React-js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Tic-Tac-Toe-Game-with-React-js&theme=radical" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksparrow381&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jacksparrow1009&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 ---
