@@ -105,9 +105,9 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/asad-ur-rehman-b211021bb">
+<!--   <a href="https://www.linkedin.com/in/asad-ur-rehman-b211021bb">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:developerasad381@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
