@@ -13,7 +13,7 @@
 🔭 Currently working on **Expense Management Tracker**  
 🌱 Exploring **Swift, GoLang, Supabase, Next.js 15**  
 ⚡ Passionate about **building scalable and interactive web apps**  
-📫 Connect with me on [GMAIL](mailto:awanasad571@gmail.com)  
+📫 Connect with me on [GMAIL](mailto:jsparrow1009786@gmail.com)
 
 ---
 
@@ -108,7 +108,7 @@
 <!--   <a href="https://www.linkedin.com/in/asad-ur-rehman-b211021bb">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a> -->
-  <a href="mailto:awanasad571@gmail.com">
+  <a href="mailto:jsparrow1009786@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/jacksparrow1009">
