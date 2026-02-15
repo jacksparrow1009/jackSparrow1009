@@ -74,24 +74,7 @@
 
 ---
 
-## 🎯 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/jacksparrow1009/Expense-Management-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Expense-Management-Tracker&theme=radical" />
-  </a>
-  <a href="https://github.com/jacksparrow1009/Personality-Test-Application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Personality-Test-Application&theme=radical" />
-  </a>
-  <a href="https://github.com/jacksparrow1009/Authentication-with-Reactjs-expressJs-Jwt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Authentication-with-Reactjs-expressJs-Jwt&theme=radical" />
-  </a>
-  <a href="https://github.com/jacksparrow1009/Tic-Tac-Toe-Game-with-React-js">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jacksparrow1009&repo=Tic-Tac-Toe-Game-with-React-js&theme=radical" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Activity  
 
